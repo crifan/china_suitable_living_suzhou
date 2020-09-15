@@ -1,0 +1,19 @@
+{
+  "title": "中国宜居城市：苏州",
+  "description": "总结中国宜居城市苏州的概况，交通规划，总体经济规划；以及苏州工业园区的总体规划，社区概况，经济规划，交通规划；以及园区的独墅湖高教区的各方面的资料，以及其下的桑田岛的相关信息。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "china_suitable_living_suzhou"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/china_suitable_living_suzhou/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/china_suitable_living_suzhou/pdf/china_suitable_living_suzhou.pdf"
+    }
+  }
+}
