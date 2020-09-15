@@ -29,4 +29,13 @@
 * [科教服务成为产业园区的标配](https://www.sohu.com/a/234610666_494876)
 * [苏州工业园规划图 (第1页) - 图说健康](https://mts.jk51.com/tushuo/5997715.html#lg=1&slide=3)
 * [苏州工业园区经济和社会发展 “十三五”（2016~2020）规划纲要](http://www.sipac.gov.cn/ggxx/201601/W020160126541211872132.pdf)
+* [苏州工业园区——专题报道](http://news.sipac.gov.cn/sipnews/yqzt/yqzt2019/201908szzmq/)
+* [区域价值解读 | 独墅湖科教创新区_房产资讯_房天下](https://suzhou.news.fang.com/open/29019266.html)
+* [PPT - 苏州轨道交通 PowerPoint Presentation, free download - ID:4348272](https://www.slideserve.com/ganya/4348272)
+* [自贸区 苏州工业园区管理委员会](http://www.sipac.gov.cn/)
+* [“苏州硅谷”各种利好齐聚的桑田岛板块](http://news.sipac.gov.cn/sipnews/yqzt/yqzt2018/201801xsdqxzw/xgbd/201805/t20180525_722106.htm)
+* [历年大事记 苏州独墅湖科教创新区](http://www.sipac.gov.cn/dept/szdshkjcxq/qygk/cxqdsj/)
+* [苏州工业园区环金鸡湖及独墅湖规划建设基本情况 - 百度文库](https://wenku.baidu.com/view/f1c018105901020207409c30.html)
+* [苏州工业园区环金鸡湖及独墅湖规划建设基本情况.pdf-完整版资料下载-皮匠网](https://www.3mbang.com/p-4367685.html)
+* [洞悉苏州市的超级普通地级市现象：经济竞争力排名高于重庆、天津_网易订阅](https://dy.163.com/article/EJL8MVC505490OPA.html)
 * 

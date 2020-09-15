@@ -34,3 +34,19 @@
 一个以制造业为主的工业园区成为踏青赏春之地，听来不可思议
 
 10年间，有200多个、累计合同外资超过10亿美元的项目，因环保因素被否决
+
+### 园区掠影
+
+![sip_view_ifs](../assets/img/sip_view_ifs.png)
+
+![sip_view_east_door](../assets/img/sip_view_east_door.png)
+
+![sip_view_expo_center](../assets/img/sip_view_expo_center.png)
+
+![sip_view_manage_center](../assets/img/sip_view_manage_center.png)
+
+![sip_view_lake_fountain](../assets/img/sip_view_lake_fountain.png)
+
+![sip_view_jinji_lake](../assets/img/sip_view_jinji_lake.png)
+
+![sip_view_core_line](../assets/img/sip_view_core_line.png)
